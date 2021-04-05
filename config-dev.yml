@@ -2,4 +2,4 @@
 #server:
 #  port: 3355
 my:
-  test: hello config modify refresh bus
+  test: hello config modify refresh bus 0406
